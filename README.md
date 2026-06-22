@@ -1,4 +1,11 @@
 # kering-cucinelli-ma-lbo-model
+## Transaction Summary
+
+- Acquirer: Kering S.A.
+- Target: Brunello Cucinelli S.p.A.
+- Analysis Type: M&A and Leveraged Buyout (LBO)
+- Time Horizon: 5 Years
+- Outputs: Accretion/Dilution, Synergies, MOIC, IRR Sensitivity
 M&amp;A and LBO valuation model analysing a hypothetical acquisition of Brunello Cucinelli by Kering, including synergies, accretion/dilution and sponsor return analysis.
 # Kering Acquisition of Brunello Cucinelli – M&A & LBO Model
 
