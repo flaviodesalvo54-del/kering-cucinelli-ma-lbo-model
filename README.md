@@ -42,3 +42,7 @@ The model explores whether Brunello Cucinelli's ultra-luxury positioning could c
 ## Disclaimer
 
 This project is for educational purposes only and does not constitute investment advice.
+## Repository Structure
+
+- `Kering_Cucinelli_MA_LBO_Model.xlsx` – Integrated M&A and LBO valuation model.
+- `README.md` – Project overview and methodology.
